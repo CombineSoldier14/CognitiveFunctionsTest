@@ -1,0 +1,96 @@
+body {
+    background: rgb(122,122,122);
+    background: radial-gradient(circle, rgba(122,122,122,1) 0%, rgba(0,0,0,1) 92%); 
+}
+
+#container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgb(0,141,159);
+    background: radial-gradient(circle, rgba(0,141,159,1) 0%, rgba(0,0,0,1) 92%);
+    text-align: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: inset;
+    border-color: rgb(0, 62, 65);
+    border-width: 7px;
+}
+
+.answers {
+    border-style: inset;
+    border-color: rgb(73, 73, 73);
+    border-width: 7px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.extremeagree {
+    background-color: rgb(0, 255, 13);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.agree {
+    background-color: rgb(106, 255, 106);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.kindaagree {
+    background-color: rgb(167, 255, 171);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.neutral {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.kindadisagree {
+    background-color: rgb(255, 171, 171);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.disagree {
+    background-color: rgb(255, 106, 106);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.extremedisagree {
+    background-color: rgb(255, 0, 0);
+    color: black;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+table, th, td {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: inset;
+    border-color: rgb(49, 49, 49);
+    border-width: 3px;
+}
+
+tr:nth-child(even) {
+    background: rgb(0,141,159);
+    background: radial-gradient(circle, rgb(159, 0, 0) 0%, rgba(0,0,0,1) 92%);
+}
+
+tr:nth-child(odd) {
+    background: rgb(0,141,159);
+    background: radial-gradient(circle, rgb(0, 135, 159) 0%, rgba(0,0,0,1) 92%);
+}

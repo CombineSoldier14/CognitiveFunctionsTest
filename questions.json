@@ -1,0 +1,42 @@
+{
+    "Ti": [
+        "You have an internal logical system for thinking that gets revised as you learn new things.",
+        "You develop your own methods and strategies for problem solving.",
+        "You are open to new insights and perspectives to perfect an idea."
+    ],
+    "Te": [
+        "Making sure people have the resources they need to succeed is very important to you.",
+        "You like to rely on ONLY the facts and data when making a decision.",
+        "You are very results-oriented."
+    ],
+    "Ni": [
+        "You are focused on a single conclusion, goal or vision.",
+        "You are future oriented.",
+        "You tend to have an \"aha\" moment where the solution seems to pop into your head."
+    ],
+    "Ne": [
+        "You are extremely interested in how the world works more than anything else.",
+        "You tend to come up with a lot more ideas than most.",
+        "You are constantly focused on the various possibilities of the world."
+    ],
+    "Si": [
+        "Sensory and vividness plays a big role in how you recall memories.",
+        "Tradition is very important to you.",
+        "You use past experiences to understand the present."
+    ],
+    "Se": [
+        "You seek sensory experience such as thrill or eating tasty food to get a physical response.",
+        "You are unlikely to miss something in your surroundings.",
+        "You live in the moment, not the past, not the future."
+    ],
+    "Fi": [
+        "You make decisions based on what your believe to be morally correct or incorrect.",
+        "You are very in tune with your emotions and can tell what each feeling means.",
+        "You value being authentic to who you are."
+    ],
+    "Fe": [
+        "You are very mindful of others needs and emotions in decision making.",
+        "You tend to sacrifice your own needs and desires for others.",
+        "You respect social and cultural norms."
+    ]
+}
