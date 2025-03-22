@@ -1,2 +1,2 @@
 # CognitiveFunctionsTest
-A web test for determining someone's cognitive functions
+A web test for determining someone's cognitive functions. Still a heavy WIP!
