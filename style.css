@@ -3,6 +3,10 @@ body {
     background: radial-gradient(circle, rgba(122,122,122,1) 0%, rgba(0,0,0,1) 92%); 
 }
 
+.github-link {
+    color: white;
+}
+
 #container {
     width: 50%;
     margin: 0 auto;
